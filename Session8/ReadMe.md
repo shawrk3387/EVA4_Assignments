@@ -1,18 +1,23 @@
 CIFAR10 Image Classification using ResNet18 Architecture in PyTorch
 
-Architecture
+Architecture:
+
 ResNet 18 is the architecture used. The model architecture code is thankfully borrowed from https://github.com/kuangliu/pytorch-cifar/blob/master/models/resnet.py
 
-Requirements
+Requirements:
+
 Python 3.x is required to run this. However, running on a Google Colab on a GPU Runtime is highly recommended.
 
-How to Run
-Please run the Notebook 'S8_Assignment.ipynb'
+How to Run:
 
-Results
+Please run the Notebook 'main.ipynb'
+
+Results:
+
 Ran 25 Epoch and Test accuracy is 87.5%
 
-Team
+Team:
+
 Amit Jaiswal
 Bharath Bolla Kumar
 Raman Shaw
