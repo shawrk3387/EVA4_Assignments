@@ -8,7 +8,7 @@ Please run the Notebook 'main.ipynb'
 
 Results:
 
-Ran 25 Epoch and Test accuracy is 87.5%
+Ran 25 Epoch and Test accuracy is 85.4%
 
 Team:
 
