@@ -19,6 +19,9 @@ Ran 25 Epoch and Test accuracy is 87.5%
 Team:
 
 Amit Jaiswal
+
 Bharath Bolla Kumar
+
 Raman Shaw
+
 Umesh Menon
